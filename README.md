@@ -1,5 +1,6 @@
-# Arbaaz Murtaza - 29052
+
 # Assignment #2: Socket Programming - TCP vs. UDP Comparison
+By Arbaaz Murtaza (29052), IBA Karachi.
 
 ## Overview
 This project implements TCP and UDP client-server applications in Python to compare latency, packet loss, and throughput. Submissions include `tcp_server.py`, `tcp_client.py`, `udp_server.py`, `udp_client.py`, logs (`tcp_log.txt`, `udp_log.txt`), and screenshots.
