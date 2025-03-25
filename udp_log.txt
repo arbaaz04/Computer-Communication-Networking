@@ -1,0 +1,266 @@
+
+UDP Server Log:
+____________
+Received data from ('127.0.0.1', 54942): Message 1
+Dropped packet: Message 1
+Received data from ('127.0.0.1', 54942): Message 2
+Sent response: Received: Message 2, Time to send: 0.000187 seconds
+Received data from ('127.0.0.1', 54942): Message 3
+Sent response: Received: Message 3, Time to send: 0.000035 seconds
+Received data from ('127.0.0.1', 54942): Message 4
+Dropped packet: Message 4
+Received data from ('127.0.0.1', 54942): Message 5
+Sent response: Received: Message 5, Time to send: 0.000040 seconds
+Received data from ('127.0.0.1', 54942): Message 6
+Dropped packet: Message 6
+Received data from ('127.0.0.1', 54942): Message 7
+Sent response: Received: Message 7, Time to send: 0.000040 seconds
+Received data from ('127.0.0.1', 54942): Message 8
+Sent response: Received: Message 8, Time to send: 0.000035 seconds
+Received data from ('127.0.0.1', 54942): Message 9
+Sent response: Received: Message 9, Time to send: 0.000038 seconds
+Received data from ('127.0.0.1', 54942): Message 10
+Sent response: Received: Message 10, Time to send: 0.000028 seconds
+Received data from ('127.0.0.1', 54942): Message 11
+Dropped packet: Message 11
+Received data from ('127.0.0.1', 54942): Message 12
+Dropped packet: Message 12
+Received data from ('127.0.0.1', 54942): Message 13
+Sent response: Received: Message 13, Time to send: 0.000036 seconds
+Received data from ('127.0.0.1', 54942): Message 14
+Sent response: Received: Message 14, Time to send: 0.000026 seconds
+Received data from ('127.0.0.1', 54942): Message 15
+Dropped packet: Message 15
+Received data from ('127.0.0.1', 54942): Message 16
+Sent response: Received: Message 16, Time to send: 0.000040 seconds
+Received data from ('127.0.0.1', 54942): Message 17
+Sent response: Received: Message 17, Time to send: 0.000035 seconds
+Received data from ('127.0.0.1', 54942): Message 18
+Sent response: Received: Message 18, Time to send: 0.000029 seconds
+Received data from ('127.0.0.1', 54942): Message 19
+Sent response: Received: Message 19, Time to send: 0.000027 seconds
+Received data from ('127.0.0.1', 54942): Message 20
+Sent response: Received: Message 20, Time to send: 0.000025 seconds
+Received data from ('127.0.0.1', 54942): Message 21
+Sent response: Received: Message 21, Time to send: 0.000023 seconds
+Received data from ('127.0.0.1', 54942): Message 22
+Dropped packet: Message 22
+Received data from ('127.0.0.1', 54942): Message 23
+Sent response: Received: Message 23, Time to send: 0.000041 seconds
+Received data from ('127.0.0.1', 54942): Message 24
+Dropped packet: Message 24
+Received data from ('127.0.0.1', 54942): Message 25
+Sent response: Received: Message 25, Time to send: 0.000038 seconds
+Received data from ('127.0.0.1', 54942): Message 26
+Sent response: Received: Message 26, Time to send: 0.000034 seconds
+Received data from ('127.0.0.1', 54942): Message 27
+Sent response: Received: Message 27, Time to send: 0.000031 seconds
+Received data from ('127.0.0.1', 54942): Message 28
+Sent response: Received: Message 28, Time to send: 0.000038 seconds
+Received data from ('127.0.0.1', 54942): Message 29
+Sent response: Received: Message 29, Time to send: 0.000032 seconds
+Received data from ('127.0.0.1', 54942): Message 30
+Sent response: Received: Message 30, Time to send: 0.000030 seconds
+Received data from ('127.0.0.1', 54942): Message 31
+Sent response: Received: Message 31, Time to send: 0.000027 seconds
+Received data from ('127.0.0.1', 54942): Message 32
+Sent response: Received: Message 32, Time to send: 0.000017 seconds
+Received data from ('127.0.0.1', 54942): Message 33
+Sent response: Received: Message 33, Time to send: 0.000017 seconds
+Received data from ('127.0.0.1', 54942): Message 34
+Sent response: Received: Message 34, Time to send: 0.000018 seconds
+Received data from ('127.0.0.1', 54942): Message 35
+Dropped packet: Message 35
+Received data from ('127.0.0.1', 54942): Message 36
+Sent response: Received: Message 36, Time to send: 0.000042 seconds
+Received data from ('127.0.0.1', 54942): Message 37
+Dropped packet: Message 37
+Received data from ('127.0.0.1', 54942): Message 38
+Sent response: Received: Message 38, Time to send: 0.000039 seconds
+Received data from ('127.0.0.1', 54942): Message 39
+Sent response: Received: Message 39, Time to send: 0.000035 seconds
+Received data from ('127.0.0.1', 54942): Message 40
+Sent response: Received: Message 40, Time to send: 0.000023 seconds
+Received data from ('127.0.0.1', 54942): Message 41
+Sent response: Received: Message 41, Time to send: 0.000023 seconds
+Received data from ('127.0.0.1', 54942): Message 42
+Sent response: Received: Message 42, Time to send: 0.000030 seconds
+Received data from ('127.0.0.1', 54942): Message 43
+Sent response: Received: Message 43, Time to send: 0.000027 seconds
+Received data from ('127.0.0.1', 54942): Message 44
+Dropped packet: Message 44
+Received data from ('127.0.0.1', 54942): Message 45
+Dropped packet: Message 45
+Received data from ('127.0.0.1', 54942): Message 46
+Dropped packet: Message 46
+Received data from ('127.0.0.1', 54942): Message 47
+Sent response: Received: Message 47, Time to send: 0.000043 seconds
+Received data from ('127.0.0.1', 54942): Message 48
+Sent response: Received: Message 48, Time to send: 0.000028 seconds
+Received data from ('127.0.0.1', 54942): Message 49
+Sent response: Received: Message 49, Time to send: 0.000025 seconds
+Received data from ('127.0.0.1', 54942): Message 50
+Sent response: Received: Message 50, Time to send: 0.000024 seconds
+Received data from ('127.0.0.1', 54942): Message 51
+Sent response: Received: Message 51, Time to send: 0.000027 seconds
+Received data from ('127.0.0.1', 54942): Message 52
+Sent response: Received: Message 52, Time to send: 0.000035 seconds
+Received data from ('127.0.0.1', 54942): Message 53
+Sent response: Received: Message 53, Time to send: 0.000022 seconds
+Received data from ('127.0.0.1', 54942): Message 54
+Sent response: Received: Message 54, Time to send: 0.000017 seconds
+Received data from ('127.0.0.1', 54942): Message 55
+Sent response: Received: Message 55, Time to send: 0.000017 seconds
+Received data from ('127.0.0.1', 54942): Message 56
+Sent response: Received: Message 56, Time to send: 0.000017 seconds
+Received data from ('127.0.0.1', 54942): Message 57
+Sent response: Received: Message 57, Time to send: 0.000021 seconds
+Received data from ('127.0.0.1', 54942): Message 58
+Sent response: Received: Message 58, Time to send: 0.000017 seconds
+Received data from ('127.0.0.1', 54942): Message 59
+Dropped packet: Message 59
+Received data from ('127.0.0.1', 54942): Message 60
+Sent response: Received: Message 60, Time to send: 0.000037 seconds
+Received data from ('127.0.0.1', 54942): Message 61
+Sent response: Received: Message 61, Time to send: 0.000033 seconds
+Received data from ('127.0.0.1', 54942): Message 62
+Dropped packet: Message 62
+Received data from ('127.0.0.1', 54942): Message 63
+Sent response: Received: Message 63, Time to send: 0.000058 seconds
+Received data from ('127.0.0.1', 54942): Message 64
+Dropped packet: Message 64
+Received data from ('127.0.0.1', 54942): Message 65
+Dropped packet: Message 65
+Received data from ('127.0.0.1', 54942): Message 66
+Sent response: Received: Message 66, Time to send: 0.000037 seconds
+Received data from ('127.0.0.1', 54942): Message 67
+Dropped packet: Message 67
+Received data from ('127.0.0.1', 54942): Message 68
+Sent response: Received: Message 68, Time to send: 0.000040 seconds
+Received data from ('127.0.0.1', 54942): Message 69
+Sent response: Received: Message 69, Time to send: 0.000028 seconds
+Received data from ('127.0.0.1', 54942): Message 70
+Dropped packet: Message 70
+Received data from ('127.0.0.1', 54942): Message 71
+Sent response: Received: Message 71, Time to send: 0.000037 seconds
+Received data from ('127.0.0.1', 54942): Message 72
+Dropped packet: Message 72
+Received data from ('127.0.0.1', 54942): Message 73
+Sent response: Received: Message 73, Time to send: 0.000040 seconds
+Received data from ('127.0.0.1', 54942): Message 74
+Sent response: Received: Message 74, Time to send: 0.000036 seconds
+Received data from ('127.0.0.1', 54942): Message 75
+Sent response: Received: Message 75, Time to send: 0.000038 seconds
+
+UDP Client Log:
+____________
+Message 1: Sent: Message 1, No response (dropped)
+Message 2: Sent: Message 2, Received: Received: Message 2, RTT: 0.000900 seconds
+Message 3: Sent: Message 3, Received: Received: Message 3, RTT: 0.000232 seconds
+Message 4: Sent: Message 4, No response (dropped)
+Message 5: Sent: Message 5, Received: Received: Message 5, RTT: 0.000497 seconds
+Message 6: Sent: Message 6, No response (dropped)
+Message 7: Sent: Message 7, Received: Received: Message 7, RTT: 0.000514 seconds
+Message 8: Sent: Message 8, Received: Received: Message 8, RTT: 0.000254 seconds
+Message 9: Sent: Message 9, Received: Received: Message 9, RTT: 0.000251 seconds
+Message 10: Sent: Message 10, Received: Received: Message 10, RTT: 0.000244 seconds
+Message 11: Sent: Message 11, No response (dropped)
+Message 12: Sent: Message 12, No response (dropped)
+Message 13: Sent: Message 13, Received: Received: Message 13, RTT: 0.000451 seconds
+Message 14: Sent: Message 14, Received: Received: Message 14, RTT: 0.000193 seconds
+Message 15: Sent: Message 15, No response (dropped)
+Message 16: Sent: Message 16, Received: Received: Message 16, RTT: 0.000525 seconds
+Message 17: Sent: Message 17, Received: Received: Message 17, RTT: 0.000225 seconds
+Message 18: Sent: Message 18, Received: Received: Message 18, RTT: 0.000174 seconds
+Message 19: Sent: Message 19, Received: Received: Message 19, RTT: 0.000168 seconds
+Message 20: Sent: Message 20, Received: Received: Message 20, RTT: 0.000192 seconds
+Message 21: Sent: Message 21, Received: Received: Message 21, RTT: 0.000158 seconds
+Message 22: Sent: Message 22, No response (dropped)
+Message 23: Sent: Message 23, Received: Received: Message 23, RTT: 0.000490 seconds
+Message 24: Sent: Message 24, No response (dropped)
+Message 25: Sent: Message 25, Received: Received: Message 25, RTT: 0.000469 seconds
+Message 26: Sent: Message 26, Received: Received: Message 26, RTT: 0.000222 seconds
+Message 27: Sent: Message 27, Received: Received: Message 27, RTT: 0.000202 seconds
+Message 28: Sent: Message 28, Received: Received: Message 28, RTT: 0.000205 seconds
+Message 29: Sent: Message 29, Received: Received: Message 29, RTT: 0.000177 seconds
+Message 30: Sent: Message 30, Received: Received: Message 30, RTT: 0.000172 seconds
+Message 31: Sent: Message 31, Received: Received: Message 31, RTT: 0.000166 seconds
+Message 32: Sent: Message 32, Received: Received: Message 32, RTT: 0.000122 seconds
+Message 33: Sent: Message 33, Received: Received: Message 33, RTT: 0.000117 seconds
+Message 34: Sent: Message 34, Received: Received: Message 34, RTT: 0.000121 seconds
+Message 35: Sent: Message 35, No response (dropped)
+Message 36: Sent: Message 36, Received: Received: Message 36, RTT: 0.000530 seconds
+Message 37: Sent: Message 37, No response (dropped)
+Message 38: Sent: Message 38, Received: Received: Message 38, RTT: 0.000503 seconds
+Message 39: Sent: Message 39, Received: Received: Message 39, RTT: 0.000184 seconds
+Message 40: Sent: Message 40, Received: Received: Message 40, RTT: 0.000161 seconds
+Message 41: Sent: Message 41, Received: Received: Message 41, RTT: 0.000182 seconds
+Message 42: Sent: Message 42, Received: Received: Message 42, RTT: 0.000208 seconds
+Message 43: Sent: Message 43, Received: Received: Message 43, RTT: 0.000197 seconds
+Message 44: Sent: Message 44, No response (dropped)
+Message 45: Sent: Message 45, No response (dropped)
+Message 46: Sent: Message 46, No response (dropped)
+Message 47: Sent: Message 47, Received: Received: Message 47, RTT: 0.000493 seconds
+Message 48: Sent: Message 48, Received: Received: Message 48, RTT: 0.000184 seconds
+Message 49: Sent: Message 49, Received: Received: Message 49, RTT: 0.000168 seconds
+Message 50: Sent: Message 50, Received: Received: Message 50, RTT: 0.000187 seconds
+Message 51: Sent: Message 51, Received: Received: Message 51, RTT: 0.000194 seconds
+Message 52: Sent: Message 52, Received: Received: Message 52, RTT: 0.000259 seconds
+Message 53: Sent: Message 53, Received: Received: Message 53, RTT: 0.000180 seconds
+Message 54: Sent: Message 54, Received: Received: Message 54, RTT: 0.000121 seconds
+Message 55: Sent: Message 55, Received: Received: Message 55, RTT: 0.000117 seconds
+Message 56: Sent: Message 56, Received: Received: Message 56, RTT: 0.000117 seconds
+Message 57: Sent: Message 57, Received: Received: Message 57, RTT: 0.000128 seconds
+Message 58: Sent: Message 58, Received: Received: Message 58, RTT: 0.000122 seconds
+Message 59: Sent: Message 59, No response (dropped)
+Message 60: Sent: Message 60, Received: Received: Message 60, RTT: 0.000463 seconds
+Message 61: Sent: Message 61, Received: Received: Message 61, RTT: 0.000215 seconds
+Message 62: Sent: Message 62, No response (dropped)
+Message 63: Sent: Message 63, Received: Received: Message 63, RTT: 0.000400 seconds
+Message 64: Sent: Message 64, No response (dropped)
+Message 65: Sent: Message 65, No response (dropped)
+Message 66: Sent: Message 66, Received: Received: Message 66, RTT: 0.000412 seconds
+Message 67: Sent: Message 67, No response (dropped)
+Message 68: Sent: Message 68, Received: Received: Message 68, RTT: 0.000483 seconds
+Message 69: Sent: Message 69, Received: Received: Message 69, RTT: 0.000196 seconds
+Message 70: Sent: Message 70, No response (dropped)
+Message 71: Sent: Message 71, Received: Received: Message 71, RTT: 0.000489 seconds
+Message 72: Sent: Message 72, No response (dropped)
+Message 73: Sent: Message 73, Received: Received: Message 73, RTT: 0.000494 seconds
+Message 74: Sent: Message 74, Received: Received: Message 74, RTT: 0.000254 seconds
+Message 75: Sent: Message 75, Received: Received: Message 75, RTT: 0.000204 seconds
+Message 76: Sent: Message 76, Received: Received: Message 76, RTT: 0.000355 seconds
+Message 77: Sent: Message 77, Received: Received: Message 77, RTT: 0.000189 seconds
+Message 78: Sent: Message 78, Received: Received: Message 78, RTT: 0.000203 seconds
+Message 79: Sent: Message 79, Received: Received: Message 79, RTT: 0.000176 seconds
+Message 80: Sent: Message 80, Received: Received: Message 80, RTT: 0.000170 seconds
+Message 81: Sent: Message 81, Received: Received: Message 81, RTT: 0.000171 seconds
+Message 82: Sent: Message 82, Received: Received: Message 82, RTT: 0.000190 seconds
+Message 83: Sent: Message 83, Received: Received: Message 83, RTT: 0.000186 seconds
+Message 84: Sent: Message 84, Received: Received: Message 84, RTT: 0.000169 seconds
+Message 85: Sent: Message 85, No response (dropped)
+Message 86: Sent: Message 86, Received: Received: Message 86, RTT: 0.000474 seconds
+Message 87: Sent: Message 87, No response (dropped)
+Message 88: Sent: Message 88, No response (dropped)
+Message 89: Sent: Message 89, No response (dropped)
+Message 90: Sent: Message 90, Received: Received: Message 90, RTT: 0.000455 seconds
+Message 91: Sent: Message 91, Received: Received: Message 91, RTT: 0.000231 seconds
+Message 92: Sent: Message 92, Received: Received: Message 92, RTT: 0.000189 seconds
+Message 93: Sent: Message 93, Received: Received: Message 93, RTT: 0.000217 seconds
+Message 94: Sent: Message 94, Received: Received: Message 94, RTT: 0.000189 seconds
+Message 95: Sent: Message 95, Received: Received: Message 95, RTT: 0.000166 seconds
+Message 96: Sent: Message 96, Received: Received: Message 96, RTT: 0.000181 seconds
+Message 97: Sent: Message 97, Received: Received: Message 97, RTT: 0.000128 seconds
+Message 98: Sent: Message 98, Received: Received: Message 98, RTT: 0.000127 seconds
+Message 99: Sent: Message 99, No response (dropped)
+Message 100: Sent: Message 100, No response (dropped)
+
+UDP Summary:
+Total time: 26.05 seconds
+Average latency: 0.26 ms (of received packets)
+Packet loss rate: 26.00%
+Throughput: 0.04 KB/s
+Messages sent: 100
+Messages received: 74
+Bytes sent: 992
+            Client closed

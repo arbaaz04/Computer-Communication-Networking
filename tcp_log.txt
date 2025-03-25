@@ -1,0 +1,316 @@
+
+TCP Server Log:
+____________
+Connection from: ('127.0.0.1', 58731)
+Received data: Message 1
+Sent response: Received: Message 1, Time to send: 0.000016 seconds
+Received data: Message 2
+Sent response: Received: Message 2, Time to send: 0.000011 seconds
+Received data: Message 3
+Sent response: Received: Message 3, Time to send: 0.000013 seconds
+Received data: Message 4
+Sent response: Received: Message 4, Time to send: 0.000012 seconds
+Received data: Message 5
+Sent response: Received: Message 5, Time to send: 0.000008 seconds
+Received data: Message 6
+Sent response: Received: Message 6, Time to send: 0.000013 seconds
+Received data: Message 7
+Sent response: Received: Message 7, Time to send: 0.000013 seconds
+Received data: Message 8
+Sent response: Received: Message 8, Time to send: 0.000007 seconds
+Received data: Message 9
+Sent response: Received: Message 9, Time to send: 0.000012 seconds
+Received data: Message 10
+Sent response: Received: Message 10, Time to send: 0.000007 seconds
+Received data: Message 11
+Sent response: Received: Message 11, Time to send: 0.000006 seconds
+Received data: Message 12
+Sent response: Received: Message 12, Time to send: 0.000013 seconds
+Received data: Message 13
+Sent response: Received: Message 13, Time to send: 0.000006 seconds
+Received data: Message 14
+Sent response: Received: Message 14, Time to send: 0.000006 seconds
+Received data: Message 15
+Sent response: Received: Message 15, Time to send: 0.000006 seconds
+Received data: Message 16
+Sent response: Received: Message 16, Time to send: 0.000006 seconds
+Received data: Message 17
+Sent response: Received: Message 17, Time to send: 0.000005 seconds
+Received data: Message 18
+Sent response: Received: Message 18, Time to send: 0.000003 seconds
+Received data: Message 19
+Sent response: Received: Message 19, Time to send: 0.000005 seconds
+Received data: Message 20
+Sent response: Received: Message 20, Time to send: 0.000004 seconds
+Received data: Message 21
+Sent response: Received: Message 21, Time to send: 0.000003 seconds
+Received data: Message 22
+Sent response: Received: Message 22, Time to send: 0.000003 seconds
+Received data: Message 23
+Sent response: Received: Message 23, Time to send: 0.000004 seconds
+Received data: Message 24
+Sent response: Received: Message 24, Time to send: 0.000005 seconds
+Received data: Message 25
+Sent response: Received: Message 25, Time to send: 0.000003 seconds
+Received data: Message 26
+Sent response: Received: Message 26, Time to send: 0.000004 seconds
+Received data: Message 27
+Sent response: Received: Message 27, Time to send: 0.000003 seconds
+Received data: Message 28
+Sent response: Received: Message 28, Time to send: 0.000003 seconds
+Received data: Message 29
+Sent response: Received: Message 29, Time to send: 0.000004 seconds
+Received data: Message 30
+Sent response: Received: Message 30, Time to send: 0.000003 seconds
+Received data: Message 31
+Sent response: Received: Message 31, Time to send: 0.000006 seconds
+Received data: Message 32
+Sent response: Received: Message 32, Time to send: 0.000004 seconds
+Received data: Message 33
+Sent response: Received: Message 33, Time to send: 0.000003 seconds
+Received data: Message 34
+Sent response: Received: Message 34, Time to send: 0.000003 seconds
+Received data: Message 35
+Sent response: Received: Message 35, Time to send: 0.000004 seconds
+Received data: Message 36
+Sent response: Received: Message 36, Time to send: 0.000003 seconds
+Received data: Message 37
+Sent response: Received: Message 37, Time to send: 0.000003 seconds
+Received data: Message 38
+Sent response: Received: Message 38, Time to send: 0.000003 seconds
+Received data: Message 39
+Sent response: Received: Message 39, Time to send: 0.000004 seconds
+Received data: Message 40
+Sent response: Received: Message 40, Time to send: 0.000003 seconds
+Received data: Message 41
+Sent response: Received: Message 41, Time to send: 0.000004 seconds
+Received data: Message 42
+Sent response: Received: Message 42, Time to send: 0.000003 seconds
+Received data: Message 43
+Sent response: Received: Message 43, Time to send: 0.000003 seconds
+Received data: Message 44
+Sent response: Received: Message 44, Time to send: 0.000003 seconds
+Received data: Message 45
+Sent response: Received: Message 45, Time to send: 0.000003 seconds
+Received data: Message 46
+Sent response: Received: Message 46, Time to send: 0.000003 seconds
+Received data: Message 47
+Sent response: Received: Message 47, Time to send: 0.000003 seconds
+Received data: Message 48
+Sent response: Received: Message 48, Time to send: 0.000003 seconds
+Received data: Message 49
+Sent response: Received: Message 49, Time to send: 0.000003 seconds
+Received data: Message 50
+Sent response: Received: Message 50, Time to send: 0.000002 seconds
+Received data: Message 51
+Sent response: Received: Message 51, Time to send: 0.000003 seconds
+Received data: Message 52
+Sent response: Received: Message 52, Time to send: 0.000003 seconds
+Received data: Message 53
+Sent response: Received: Message 53, Time to send: 0.000003 seconds
+Received data: Message 54
+Sent response: Received: Message 54, Time to send: 0.000003 seconds
+Received data: Message 55
+Sent response: Received: Message 55, Time to send: 0.000003 seconds
+Received data: Message 56
+Sent response: Received: Message 56, Time to send: 0.000003 seconds
+Received data: Message 57
+Sent response: Received: Message 57, Time to send: 0.000003 seconds
+Received data: Message 58
+Sent response: Received: Message 58, Time to send: 0.000003 seconds
+Received data: Message 59
+Sent response: Received: Message 59, Time to send: 0.000003 seconds
+Received data: Message 60
+Sent response: Received: Message 60, Time to send: 0.000003 seconds
+Received data: Message 61
+Sent response: Received: Message 61, Time to send: 0.000003 seconds
+Received data: Message 62
+Sent response: Received: Message 62, Time to send: 0.000003 seconds
+Received data: Message 63
+Sent response: Received: Message 63, Time to send: 0.000003 seconds
+Received data: Message 64
+Sent response: Received: Message 64, Time to send: 0.000003 seconds
+Received data: Message 65
+Sent response: Received: Message 65, Time to send: 0.000003 seconds
+Received data: Message 66
+Sent response: Received: Message 66, Time to send: 0.000003 seconds
+Received data: Message 67
+Sent response: Received: Message 67, Time to send: 0.000003 seconds
+Received data: Message 68
+Sent response: Received: Message 68, Time to send: 0.000003 seconds
+Received data: Message 69
+Sent response: Received: Message 69, Time to send: 0.000003 seconds
+Received data: Message 70
+Sent response: Received: Message 70, Time to send: 0.000003 seconds
+Received data: Message 71
+Sent response: Received: Message 71, Time to send: 0.000003 seconds
+Received data: Message 72
+Sent response: Received: Message 72, Time to send: 0.000003 seconds
+Received data: Message 73
+Sent response: Received: Message 73, Time to send: 0.000003 seconds
+Received data: Message 74
+Sent response: Received: Message 74, Time to send: 0.000004 seconds
+Received data: Message 75
+Sent response: Received: Message 75, Time to send: 0.000003 seconds
+Received data: Message 76
+Sent response: Received: Message 76, Time to send: 0.000003 seconds
+Received data: Message 77
+Sent response: Received: Message 77, Time to send: 0.000003 seconds
+Received data: Message 78
+Sent response: Received: Message 78, Time to send: 0.000003 seconds
+Received data: Message 79
+Sent response: Received: Message 79, Time to send: 0.000003 seconds
+Received data: Message 80
+Sent response: Received: Message 80, Time to send: 0.000003 seconds
+Received data: Message 81
+Sent response: Received: Message 81, Time to send: 0.000003 seconds
+Received data: Message 82
+Sent response: Received: Message 82, Time to send: 0.000003 seconds
+Received data: Message 83
+Sent response: Received: Message 83, Time to send: 0.000003 seconds
+Received data: Message 84
+Sent response: Received: Message 84, Time to send: 0.000003 seconds
+Received data: Message 85
+Sent response: Received: Message 85, Time to send: 0.000004 seconds
+Received data: Message 86
+Sent response: Received: Message 86, Time to send: 0.000003 seconds
+Received data: Message 87
+
+TCP Client Log:
+____________
+Message 1: Sent: Message 1, Received: Received: Message 1, RTT = 0.000181 seconds
+Message 2: Sent: Message 2, Received: Received: Message 2, RTT = 0.000105 seconds
+Message 3: Sent: Message 3, Received: Received: Message 3, RTT = 0.000098 seconds
+Message 4: Sent: Message 4, Received: Received: Message 4, RTT = 0.000105 seconds
+Message 5: Sent: Message 5, Received: Received: Message 5, RTT = 0.000093 seconds
+Message 6: Sent: Message 6, Received: Received: Message 6, RTT = 0.000099 seconds
+Message 7: Sent: Message 7, Received: Received: Message 7, RTT = 0.000093 seconds
+Message 8: Sent: Message 8, Received: Received: Message 8, RTT = 0.000088 seconds
+Message 9: Sent: Message 9, Received: Received: Message 9, RTT = 0.000098 seconds
+Message 10: Sent: Message 10, Received: Received: Message 10, RTT = 0.000118 seconds
+Message 11: Sent: Message 11, Received: Received: Message 11, RTT = 0.000106 seconds
+Message 12: Sent: Message 12, Received: Received: Message 12, RTT = 0.000114 seconds
+Message 13: Sent: Message 13, Received: Received: Message 13, RTT = 0.000106 seconds
+Message 14: Sent: Message 14, Received: Received: Message 14, RTT = 0.000098 seconds
+Message 15: Sent: Message 15, Received: Received: Message 15, RTT = 0.000105 seconds
+Message 16: Sent: Message 16, Received: Received: Message 16, RTT = 0.000100 seconds
+Message 17: Sent: Message 17, Received: Received: Message 17, RTT = 0.000081 seconds
+Message 18: Sent: Message 18, Received: Received: Message 18, RTT = 0.000085 seconds
+Message 19: Sent: Message 19, Received: Received: Message 19, RTT = 0.000083 seconds
+Message 20: Sent: Message 20, Received: Received: Message 20, RTT = 0.000084 seconds
+Message 21: Sent: Message 21, Received: Received: Message 21, RTT = 0.000083 seconds
+Message 22: Sent: Message 22, Received: Received: Message 22, RTT = 0.000084 seconds
+Message 23: Sent: Message 23, Received: Received: Message 23, RTT = 0.000071 seconds
+Message 24: Sent: Message 24, Received: Received: Message 24, RTT = 0.000076 seconds
+Message 25: Sent: Message 25, Received: Received: Message 25, RTT = 0.000085 seconds
+Message 26: Sent: Message 26, Received: Received: Message 26, RTT = 0.000082 seconds
+Message 27: Sent: Message 27, Received: Received: Message 27, RTT = 0.000083 seconds
+Message 28: Sent: Message 28, Received: Received: Message 28, RTT = 0.000082 seconds
+Message 29: Sent: Message 29, Received: Received: Message 29, RTT = 0.000082 seconds
+Message 30: Sent: Message 30, Received: Received: Message 30, RTT = 0.000081 seconds
+Message 31: Sent: Message 31, Received: Received: Message 31, RTT = 0.000068 seconds
+Message 32: Sent: Message 32, Received: Received: Message 32, RTT = 0.000068 seconds
+Message 33: Sent: Message 33, Received: Received: Message 33, RTT = 0.000082 seconds
+Message 34: Sent: Message 34, Received: Received: Message 34, RTT = 0.000082 seconds
+Message 35: Sent: Message 35, Received: Received: Message 35, RTT = 0.000083 seconds
+Message 36: Sent: Message 36, Received: Received: Message 36, RTT = 0.000081 seconds
+Message 37: Sent: Message 37, Received: Received: Message 37, RTT = 0.000083 seconds
+Message 38: Sent: Message 38, Received: Received: Message 38, RTT = 0.000083 seconds
+Message 39: Sent: Message 39, Received: Received: Message 39, RTT = 0.000082 seconds
+Message 40: Sent: Message 40, Received: Received: Message 40, RTT = 0.000082 seconds
+Message 41: Sent: Message 41, Received: Received: Message 41, RTT = 0.000083 seconds
+Message 42: Sent: Message 42, Received: Received: Message 42, RTT = 0.000083 seconds
+Message 43: Sent: Message 43, Received: Received: Message 43, RTT = 0.000083 seconds
+Message 44: Sent: Message 44, Received: Received: Message 44, RTT = 0.000081 seconds
+Message 45: Sent: Message 45, Received: Received: Message 45, RTT = 0.000082 seconds
+Message 46: Sent: Message 46, Received: Received: Message 46, RTT = 0.000082 seconds
+Message 47: Sent: Message 47, Received: Received: Message 47, RTT = 0.000082 seconds
+Message 48: Sent: Message 48, Received: Received: Message 48, RTT = 0.000083 seconds
+Message 49: Sent: Message 49, Received: Received: Message 49, RTT = 0.000083 seconds
+Message 50: Sent: Message 50, Received: Received: Message 50, RTT = 0.000081 seconds
+Message 51: Sent: Message 51, Received: Received: Message 51, RTT = 0.000082 seconds
+Message 52: Sent: Message 52, Received: Received: Message 52, RTT = 0.000082 seconds
+Message 53: Sent: Message 53, Received: Received: Message 53, RTT = 0.000082 seconds
+Message 54: Sent: Message 54, Received: Received: Message 54, RTT = 0.000080 seconds
+Message 55: Sent: Message 55, Received: Received: Message 55, RTT = 0.000079 seconds
+Message 56: Sent: Message 56, Received: Received: Message 56, RTT = 0.000080 seconds
+Message 57: Sent: Message 57, Received: Received: Message 57, RTT = 0.000080 seconds
+Message 58: Sent: Message 58, Received: Received: Message 58, RTT = 0.000079 seconds
+Message 59: Sent: Message 59, Received: Received: Message 59, RTT = 0.000080 seconds
+Message 60: Sent: Message 60, Received: Received: Message 60, RTT = 0.000079 seconds
+Message 61: Sent: Message 61, Received: Received: Message 61, RTT = 0.000079 seconds
+Message 62: Sent: Message 62, Received: Received: Message 62, RTT = 0.000079 seconds
+Message 63: Sent: Message 63, Received: Received: Message 63, RTT = 0.000079 seconds
+Message 64: Sent: Message 64, Received: Received: Message 64, RTT = 0.000079 seconds
+Message 65: Sent: Message 65, Received: Received: Message 65, RTT = 0.000079 seconds
+Message 66: Sent: Message 66, Received: Received: Message 66, RTT = 0.000079 seconds
+Message 67: Sent: Message 67, Received: Received: Message 67, RTT = 0.000080 seconds
+Message 68: Sent: Message 68, Received: Received: Message 68, RTT = 0.000079 seconds
+Message 69: Sent: Message 69, Received: Received: Message 69, RTT = 0.000078 seconds
+Message 70: Sent: Message 70, Received: Received: Message 70, RTT = 0.000079 seconds
+Message 71: Sent: Message 71, Received: Received: Message 71, RTT = 0.000078 seconds
+Message 72: Sent: Message 72, Received: Received: Message 72, RTT = 0.000079 seconds
+Message 73: Sent: Message 73, Received: Received: Message 73, RTT = 0.000080 seconds
+Message 74: Sent: Message 74, Received: Received: Message 74, RTT = 0.000080 seconds
+Message 75: Sent: Message 75, Received: Received: Message 75, RTT = 0.000082 seconds
+Message 76: Sent: Message 76, Received: Received: Message 76, RTT = 0.000073 seconds
+Message 77: Sent: Message 77, Received: Received: Message 77, RTT = 0.000067 seconds
+Message 78: Sent: Message 78, Received: Received: Message 78, RTT = 0.000055 seconds
+Message 79: Sent: Message 79, Received: Received: Message 79, RTT = 0.000074 seconds
+Message 80: Sent: Message 80, Received: Received: Message 80, RTT = 0.000080 seconds
+Message 81: Sent: Message 81, Received: Received: Message 81, RTT = 0.000078 seconds
+Message 82: Sent: Message 82, Received: Received: Message 82, RTT = 0.000080 seconds
+Message 83: Sent: Message 83, Received: Received: Message 83, RTT = 0.000079 seconds
+Message 84: Sent: Message 84, Received: Received: Message 84, RTT = 0.000079 seconds
+Message 85: Sent: Message 85, Received: Received: Message 85, RTT = 0.000078 seconds
+Message 86: Sent: Message 86, Received: Received: Message 86, RTT = 0.000079 seconds
+Message 87: Sent: Message 87, Received: Received: Message 87, RTT = 0.000080 seconds
+Message 88: Sent: Message 88, Received: Received: Message 88, RTT = 0.000130 seconds
+Message 89: Sent: Message 89, Received: Received: Message 89, RTT = 0.000080 seconds
+Message 90: Sent: Message 90, Received: Received: Message 90, RTT = 0.000080 seconds
+Message 91: Sent: Message 91, Received: Received: Message 91, RTT = 0.000080 seconds
+Message 92: Sent: Message 92, Received: Received: Message 92, RTT = 0.000079 seconds
+Message 93: Sent: Message 93, Received: Received: Message 93, RTT = 0.000079 seconds
+Message 94: Sent: Message 94, Received: Received: Message 94, RTT = 0.000079 seconds
+Message 95: Sent: Message 95, Received: Received: Message 95, RTT = 0.000078 seconds
+Message 96: Sent: Message 96, Received: Received: Message 96, RTT = 0.000079 seconds
+Message 97: Sent: Message 97, Received: Received: Message 97, RTT = 0.000079 seconds
+Message 98: Sent: Message 98, Received: Received: Message 98, RTT = 0.000082 seconds
+Message 99: Sent: Message 99, Received: Received: Message 99, RTT = 0.000054 seconds
+Message 100: Sent: Message 100, Received: Received: Message 100, RTT = 0.000058 seconds
+
+TCP Summary:
+Total time: 0.01 seconds
+Average latency: 0.08 ms
+Throughput: 105.33 KB/s
+Messages sent: 100
+Bytes sent: 992
+            Connection closed
+Sent response: Received: Message 87, Time to send: 0.000004 seconds
+Received data: Message 88
+Sent response: Received: Message 88, Time to send: 0.000003 seconds
+Received data: Message 89
+Sent response: Received: Message 89, Time to send: 0.000003 seconds
+Received data: Message 90
+Sent response: Received: Message 90, Time to send: 0.000003 seconds
+Received data: Message 91
+Sent response: Received: Message 91, Time to send: 0.000003 seconds
+Received data: Message 92
+Sent response: Received: Message 92, Time to send: 0.000003 seconds
+Received data: Message 93
+Sent response: Received: Message 93, Time to send: 0.000003 seconds
+Received data: Message 94
+Sent response: Received: Message 94, Time to send: 0.000003 seconds
+Received data: Message 95
+Sent response: Received: Message 95, Time to send: 0.000003 seconds
+Received data: Message 96
+Sent response: Received: Message 96, Time to send: 0.000003 seconds
+Received data: Message 97
+Sent response: Received: Message 97, Time to send: 0.000003 seconds
+Received data: Message 98
+Sent response: Received: Message 98, Time to send: 0.000002 seconds
+Received data: Message 99
+Sent response: Received: Message 99, Time to send: 0.000003 seconds
+Received data: Message 100
+Sent response: Received: Message 100, Time to send: 0.000002 seconds
+Connection closed
