@@ -51,9 +51,7 @@ This project implements TCP and UDP client-server applications in Python to comp
 - TCP: Uses `SOCK_STREAM`, measures server send time and client RTT.
 - UDP: Uses `SOCK_DGRAM`, 20% drop rate, 1s timeout for loss detection.
 - Tools: Python `socket`, `time`, `random` for simulation.
-- References: [Python Socket Docs](https://docs.python.org/3/library/socket.html), online tutorials for socket programming.
 
 ## Files
 - `tcp_server.py`, `tcp_client.py`, `udp_server.py`, `udp_client.py`
 - `tcp_log.txt`, `udp_log.txt`
-- Screenshots: `tcp_server.png`, `tcp_client.png`, `udp_server.png`, `udp_client.png`
